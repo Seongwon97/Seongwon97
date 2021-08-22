@@ -18,8 +18,8 @@ I want to be a full stack developer in the future. 👨🏻‍💻 <br>
   <img src="https://img.shields.io/badge/springboot%20-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white"/>  
   <br>
   <img src="https://img.shields.io/badge/Git%20-F05032.svg?&style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux%20-E95420.svg?&style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker%20-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux%20-E95420.svg?&style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
   
