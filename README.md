@@ -35,7 +35,10 @@ I want to be a full stack developer in the future. 👨🏻‍💻 <br>
   
  <br>
   <h4>Study Recording Space</h4>
-  <a href="https://velog.io/@seongwon97"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hammii"/></a>&nbsp
+  <a href="https://velog.io/@seongwon97"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seongwon97"/></a>&nbsp
+
+  <h4>블로그 이전 예정입니다.</h4>
+  <a href="https://seongwon97.github.io/"><img src="https://img.shields.io/badge/Git%20Blog-232F3E?style=flat-square&logo=Github&logoColor=white&link=https://seongwon97.github.io/"/></a>&nbsp
   
  <br><br>
 
