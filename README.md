@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=Seongwon%20Oh&fontSize=60&fontAlign=28)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=header&text=Seongwon%20Oh&fontSize=60&fontAlign=26)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongwon97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-round&logo=github&link=https://seongwon.dev/)](https://seongwon.dev/) 
