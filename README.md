@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=header&text=Seongwon%20Oh&fontSize=60&fontAlign=26)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongwon97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-round&logo=github&link=https://seongwon.dev/)](https://seongwon.dev/) 
 [![Résumé](https://img.shields.io/badge/Résumé-FF6900?style=flat-round&logo=Read-the-Docs&logoColor=white&link=https://classic-gladiolus-e79.notion.site/Resume-047d2f2fb4184cb0b659a967b579629d)](https://classic-gladiolus-e79.notion.site/Resume-047d2f2fb4184cb0b659a967b579629d)
+[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-round&logo=github&link=https://seongwon.dev/)](https://seongwon.dev/) 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:seongwon.dev@gmail.com)](mailto:seongwon.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-round&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seongwon97/)](https://www.linkedin.com/in/seongwon97/)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongwon97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 ### 🎤 Introduce
 
@@ -13,8 +14,8 @@ I like to communicate with developers and try to grow up together 🌳
 
 
 ### 🧑🏻‍💻 Education
-- Web Backend 4th at WoowaCourse &nbsp;<sub>(Feb 2021 – Nov 2021)</sub>
-- Bachelor's degree in Software at Gachon University &nbsp;<sub>(Mar 2016 – Feb 2021)</sub>
+- Web Backend 4th at WoowaCourse &nbsp;<sub>(Feb 2022 – Nov 2022)</sub>
+- Bachelor's degree in Software at Gachon University &nbsp;<sub>(Mar 2016 – Feb 2022)</sub>
 
 ### 🔮 Interest
 - Backend Development &nbsp;<sub>(Java, Spring, JPA)</sub>
