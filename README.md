@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=header&text=Seongwon%20Oh&fontSize=60&fontAlign=26)
 
-[![Résumé](https://img.shields.io/badge/Résumé-FF6900?style=flat-round&logo=Read-the-Docs&logoColor=white&link=https://classic-gladiolus-e79.notion.site/Resume-047d2f2fb4184cb0b659a967b579629d)](https://classic-gladiolus-e79.notion.site/Resume-047d2f2fb4184cb0b659a967b579629d)
+[![Résumé](https://img.shields.io/badge/Résumé-FF6900?style=flat-round&logo=Read-the-Docs&logoColor=white&link=https://classic-gladiolus-e79.notion.site/Resume-047d2f2fb4184cb0b659a967b579629d)]([https://classic-gladiolus-e79.notion.site/Resume-047d2f2fb4184cb0b659a967b579629d](https://classic-gladiolus-e79.notion.site/R-sum-4900e6af3e9d42508a5f8fd4c7b761a0))
 [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-round&logo=github&link=https://seongwon.dev/)](https://seongwon.dev/) 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:seongwon.dev@gmail.com)](mailto:seongwon.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-round&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seongwon97/)](https://www.linkedin.com/in/seongwon97/)
@@ -12,6 +12,8 @@
 I'm currently studying backend development.<br>
 I like to communicate with developers and try to grow up together 🌳
 
+### ✨ Career
+- Naver Financial &nbsp;<sub>(Jan 2023 – Mar 2023)</sub>
 
 ### 🧑🏻‍💻 Education
 - Web Backend 4th at WoowaCourse &nbsp;<sub>(Feb 2022 – Nov 2022)</sub>
