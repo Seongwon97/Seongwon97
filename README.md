@@ -33,5 +33,7 @@ I like to communicate with developers and try to grow up together 🌳
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> 
 
  ### 📊 My stats
-  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=osw970325)](https://solved.ac/profile/osw970325)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongwon97&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
+
