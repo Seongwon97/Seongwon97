@@ -14,6 +14,7 @@ I like to communicate with developers and try to grow up together 🌳
 
 ### ✨ Career
 - Naver Financial &nbsp;<sub>(Jan 2023 – Mar 2023)</sub>
+- Shinhan Card &nbsp;<sub>(Jan 2024 ~)</sub>
 
 ### 🧑🏻‍💻 Education
 - Web Backend 4th at WoowaCourse &nbsp;<sub>(Feb 2022 – Nov 2022)</sub>
